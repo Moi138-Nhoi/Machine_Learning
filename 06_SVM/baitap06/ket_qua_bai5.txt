@@ -1,0 +1,27 @@
+﻿Bang nham lan (hang = so that; cot = so doan):
+that\doan   0   1   2   3   4   5   6   7   8   9
+        0  45   0   0   0   0   0   0   0   0   0
+        1   0  46   0   0   0   0   0   0   0   0
+        2   0   0  44   0   0   0   0   0   0   0
+        3   0   0   0  46   0   0   0   0   0   0
+        4   0   0   0   0  44   0   0   0   1   0
+        5   0   0   0   0   0  46   0   0   0   0
+        6   0   0   0   0   0   0  45   0   0   0
+        7   0   0   0   0   0   0   0  44   0   1
+        8   0   1   0   0   0   0   0   0  42   0
+        9   0   0   0   1   0   0   0   0   0  44
+Cac cap bi nham (that -> doan):
+  4 -> 8: 1 anh
+  7 -> 9: 1 anh
+  8 -> 1: 1 anh
+  9 -> 3: 1 anh
+So anh doan sai: 4/450
+  anh   6: that 9, doan 3; luu baitap06\anh_sai\anh_006_that_9_doan_3.png
+    Nhan xet: Net ben trai cua so 9 yeu, hai vong tren/duoi trong giong so 3.
+  anh  18: that 8, doan 1; luu baitap06\anh_sai\anh_018_that_8_doan_1.png
+    Nhan xet: Hai vong cua so 8 bi ho, net doc giua noi bat nhu so 1.
+  anh 161: that 4, doan 8; luu baitap06\anh_sai\anh_161_that_4_doan_8.png
+    Nhan xet: Net ngang va hai net hai ben cua so 4 tao cam giac hai vong so 8.
+  anh 428: that 7, doan 9; luu baitap06\anh_sai\anh_428_that_7_doan_9.png
+    Nhan xet: Phan dau cong va net doc ben phai cua so 7 giong so 9.
+Cac nhan xet ve hinh dang la quan sat thu cong tren anh 8x8, khong phai nguyen nhan suy ra truc tiep tu mo hinh.

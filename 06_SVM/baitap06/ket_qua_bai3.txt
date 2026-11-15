@@ -1,0 +1,7 @@
+﻿Bac  C tot nhat  CV 5 phan  Accuracy kiem tra
+  2           1      0.5422              0.5067
+  3           1      0.8178              0.8267
+  4         100      0.5156              0.4800
+Bac tot nhat theo CV: 3 (CV = 0.8178).
+RBF muc 5: CV = 0.8711; accuracy kiem tra = 0.9200.
+Nhan xet: kernel da thuc khong vuot RBF tren tap kiem tra; so sanh dua tren cung phep chia du lieu.

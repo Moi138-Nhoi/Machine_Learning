@@ -1,0 +1,11 @@
+﻿w1 = -0.831357, w2 = -0.354868, b = 4.820361
+||w|| = 0.903928; do rong le = 2/||w|| = 2.212565
+Hai diem moi:
+  (3.0, 3.0): f = (-0.831357)*3.0 + (-0.354868)*3.0 + (4.820361) = +1.261684; d = |f|/||w|| = 1.395779; lop 1
+  (5.0, 4.5): f = (-0.831357)*5.0 + (-0.354868)*4.5 + (4.820361) = -0.933333; d = |f|/||w|| = 1.032530; lop 0
+Ba vecto ho tro:
+  diem 18, lop 0: f = -1.000102; d = 1.106396
+  diem 10, lop 1: f = +0.999897; d = 1.106169
+  diem 13, lop 1: f = +1.000205; d = 1.106509
+Nua do rong le = 1/||w|| = 1.106282
+Nhan xet: vecto ho tro nam tren hai duong f(x) = +1 va f(x) = -1. Vi vay khoang cach toi f(x) = 0 la 1/||w||, bang nua do rong le 2/||w||. Sai lech rat nho trong so tinh duoc la sai so toi uu so.

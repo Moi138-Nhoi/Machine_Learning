@@ -1,0 +1,9 @@
+﻿Lan hoc                w1        w2         b    so SV   diem moi la SV
+24 diem goc          -0.8314  -0.3549   +4.8204       3   -
+Them (-1, -1)        -0.8314  -0.3549   +4.8204       3   False
+  f_goc(diem moi) = +6.0066; do lech he so lon nhat = 0.000000
+  Nhan xet: ranh gioi gan nhu khong doi; diem moi khong quyet dinh le.
+Them (4.5, 4)        -2.6030  -0.8068  +15.9409       2   True
+  f_goc(diem moi) = -0.3402; do lech he so lon nhat = 11.120578
+  Nhan xet: ranh gioi doi vi diem moi nam sat/trong le va tro thanh SV.
+Giai thich: diem (-1, -1) o xa ve phia lop 1 nen khong la vecto ho tro. Diem (4.5, 4) vi pham le cua duong cu, duoc dua vao tap vecto ho tro va lam thay doi duong phan cach.

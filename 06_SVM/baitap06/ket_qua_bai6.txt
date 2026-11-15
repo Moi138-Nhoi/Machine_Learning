@@ -1,0 +1,7 @@
+﻿      n    SVC (s)   LinearSVC (s)   SVC/lan truoc   Linear/lan truoc
+   2000     0.0289          0.0043              -                 -
+   5000     0.1379          0.0045          4.77x             1.03x
+  10000     1.6256          0.0069         11.79x             1.54x
+  20000     4.7931          0.0198          2.95x             2.86x
+Nhan xet khi n tang tu 10000 len 20000: SVC cham hon 2.95 lan; LinearSVC cham hon 2.86 lan.
+SVC dung kernel RBF nen thuong tang thoi gian nhanh hon LinearSVC; cac so do phu thuoc may va co dao dong.

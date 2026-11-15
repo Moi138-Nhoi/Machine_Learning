@@ -1,0 +1,7 @@
+﻿Tho (muc 5): C = 10, gamma = 1
+  CV 5 phan = 0.8711; accuracy kiem tra = 0.9200
+Min: C = 30, gamma = 1
+  CV 5 phan = 0.8756; accuracy kiem tra = 0.9200
+CV luoi min cao hon 0.8711.
+Accuracy kiem tra khong doi so voi luoi tho.
+Nhan xet: luoi min co the tim tham so cho diem CV nhich len, nhung ton them lan fit va khong bao dam accuracy kiem tra tot hon.
